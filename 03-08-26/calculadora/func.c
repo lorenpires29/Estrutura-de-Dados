@@ -15,7 +15,7 @@ int mult(int x, int y){
     return mult;
 }
 
-float divisao(float x, float y){
+float divisao(int x, int y){
     float divisao = x / y; 
     return divisao;
 }
